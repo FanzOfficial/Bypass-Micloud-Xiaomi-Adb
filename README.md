@@ -1,2 +1,4 @@
-# Micloud-Xiaomi-Adb-Bypass
+# Bypass-Micloud-Xiaomi-Adb
 free
+note:
+- apabila eror download dimohon untuk memmatika security
